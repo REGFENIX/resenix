@@ -1,0 +1,8 @@
+{
+  "name": "resenix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "8e956cc3"
+}
